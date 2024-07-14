@@ -22,3 +22,6 @@ Data Preparation: Processes the collected data to create a dataset suitable for 
 Model Training: Trains three machine learning models: Random Forest, K-Nearest Neighbors (KNN), and Logistic Regression.
 Predictions: Uses the trained models to predict outcomes of new matches.
 Results Visualization: Creates graphs to visualize predicted win percentages against various opponents.
+
+# Contact
+e-mail me at: barbozadihl@gmail.com
